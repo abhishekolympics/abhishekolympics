@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekolympics](https://medium.com/@abhishekolympics)
 
-- 💬 Ask me about **C++, MERN stack, Gatsby, GraphQL, Postman, EJS, Azure Devops, Twilio Webhook, SMTP**
+- 💬 Ask me about **C++, MERN stack, Gatsby, GraphQL, Postman, EJS, Azure Devops, Twilio Webhook, SMTP, Temporal, REST**
 
 - 📫 How to reach me **abhishekolympics@gmail.com abhishek19980402@gmail.com**
 
