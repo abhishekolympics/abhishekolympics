@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhishe65647056" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe65647056?logo=twitter&style=for-the-badge" alt="abhishe65647056" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, asyncThunk **
+- 🌱 I’m currently learning **Redux, asyncThunk**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekolympics](https://github.com/abhishekolympics)
 
