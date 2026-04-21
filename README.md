@@ -79,11 +79,5 @@
 </table>
 
 
-<h3 align="left">Abhishek's Github Activity Graph:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekolympics&show_icons=true&locale=en&layout=compact" alt="abhishekolympics" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekolympics&" alt="abhishekolympics" /></p>
-
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abhishekolympics"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishekolympics" /></a></p><br><br>
