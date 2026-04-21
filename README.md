@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/abhishe65647056" target="blank"><img src="https://img.shields.io/twitter/follow/abhishe65647056?logo=twitter&style=for-the-badge" alt="abhishe65647056" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, asyncThunk**
+- 🌱 I’m currently learning System Design
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhishekolympics](https://github.com/abhishekolympics)
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekolympics](https://medium.com/@abhishekolympics)
 
-- 💬 Ask me about **C++, MERN stack, Gatsby, GraphQL, Postman, EJS, Azure Devops, Twilio Webhook, SMTP, Temporal, REST**
+- 💬 Ask me about **MERN stack, Python, Gatsby, GraphQL, Postman, EJS, Azure Devops, Twilio Webhook, SMTP, Temporal, REST**
 
 - 📫 How to reach me **abhishekolympics@gmail.com abhishek19980402@gmail.com**
 
