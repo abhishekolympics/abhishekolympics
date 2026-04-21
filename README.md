@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning System Design
 
-- 👨‍💻 All of my projects are available at [Projects(https://github.com/abhishekolympics?tab=repositories)]
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/abhishekolympics?tab=repositories)
 
 - 💬 Ask me about **MERN stack, Python, Gatsby, Javascript, Typescript, GraphQL, REST, AWS, Azure Devops, Render.com, railway.com, Twilio Webhook, SMTP, Temporal,  Postman**
 
