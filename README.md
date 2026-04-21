@@ -13,11 +13,10 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abhishekolympics](https://medium.com/@abhishekolympics)
 
-- 💬 Ask me about **MERN stack, Python, Gatsby, GraphQL, Postman, EJS, Azure Devops, Twilio Webhook, SMTP, Temporal, REST**
+- 💬 Ask me about **MERN stack, Python, Gatsby, Javascript, Typescript, GraphQL, REST, AWS, Azure Devops, Render.com, railway.com, Twilio Webhook, SMTP, Temporal,  Postman**
 
 - 📫 How to reach me **abhishekolympics@gmail.com abhishek19980402@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1iODLIbkm0Ql4ElcLu4r6Zi6twr8y24eYVTm3f9VJzrE/edit?usp=sharing](https://docs.google.com/document/d/1iODLIbkm0Ql4ElcLu4r6Zi6twr8y24eYVTm3f9VJzrE/edit?usp=sharing)
 
 - ⚡ Fun fact **My gaming name is Aloo(It means Potato).**
 
